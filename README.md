@@ -39,22 +39,7 @@ and success criteria  of our project.
 5. Created measure for needs and used them for creating visuals in PowerBi.
 6. After the initial report reviewed by the stakeholders, made changes to the report based on the review commends.
 
-## Final result 
 
-#### Initial Dashboard
-
----
-<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/Inital_report.png" width="550" class="center">
-
-#### Updated Dashboard
-
----
-<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/Final_report.png" width="550" class="center">
-
-#### Interactive dashboard
-
----
-<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/GIF.gif" width="600" class="center">
 
 
 
